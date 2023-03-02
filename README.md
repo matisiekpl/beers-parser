@@ -1,5 +1,5 @@
 # Beers Parser 🍺
-Beer styles parser for wiki.piwo.org
+Beer styles parser for https://wiki.piwo.org/
 
 ## Goal
 The goal is to automatically fetch beer styles from https://wiki.piwo.org/Zestawienie_styl%C3%B3w_piw_(tabela) into useful `JSON` file
